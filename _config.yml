@@ -1,6 +1,6 @@
 # Site settings
 title: Doggone Creative
-email: matt@doggonecreative.com
+email: email
 description: Description
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mattone.github.io/" # the base hostname & protocol for your site
